@@ -18,7 +18,7 @@
 
 ---
 
-Agent 写小说。写、审、改，全程接管。
+Agent 写小说。写、审、改，全程接管。覆盖玄幻、仙侠、都市、科幻等多种风格，支持续写、番外、同人、仿写等创作形式。
 
 **Native English novel writing now supported！** Set `--lang en` to write in English. See [English README](README.en.md) for details.
 
